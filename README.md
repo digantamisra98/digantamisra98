@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Diganta Misra, founder of a research group [Landskape](https://www.landskape.org/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
+I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://www.landskape.org/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
 
 ### News:
 

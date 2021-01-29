@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskapeai.github.io/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
+I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskapeai.github.io/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
 
 ### News:
 

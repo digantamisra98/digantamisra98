@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="mila.png"  width="200"/>
-  <img src="udem.png"  width="200"/>
-  <img src="wandb1.png"  width="300"/>
+  <img src="mila.png"  width="150"/>
+  <img src="udem.png"  width="150"/>
+  <img src="wandb1.png"  width="250"/>
   &emsp;
-  <img src="landskape.png"  width="100"/>
+  <img src="lsr.png"  width="80"/>
+  &emsp;
+  <img src="landskape.png"  width="90"/>
 </p>
 
 I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskapeai.github.io/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 

@@ -3,7 +3,7 @@
 <p float="left">
   <img src="mila.png"  width="250"/>
   <img src="udem.png"  width="250"/>
-  <img src="wandb1.png"  width="300"/>
+  <img src="wandb1.png"  width="200"/>
   <img src="landskape.png"  width="100"/>
 </p>
 

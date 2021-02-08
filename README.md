@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="mila.png"  width="300"/>
-  <img src="udem.png"  width="400"/>
-  <br>
-  <img src="wandb1.png"  width="400"/>
-  &emsp;
-  &emsp;
-  &emsp;
+  <img src="mila.png"  width="250"/>
+  <img src="udem.png"  width="250"/>
+  <img src="wandb1.png"  width="300"/>
   <img src="landskape.png"  width="100"/>
 </p>
 

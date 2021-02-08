@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="mila.png"  width="150"/>
-  <img src="udem.png"  width="150"/>
-  <img src="wandb1.png"  width="250"/>
+  <img src="mila.png"  width="160"/>
+  <img src="udem.png"  width="160"/>
+  <img src="wandb1.png"  width="270"/>
   &emsp;
   <img src="lsr.png"  width="80"/>
   &emsp;

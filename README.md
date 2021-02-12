@@ -23,3 +23,4 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 - Jan' 21: Our WACV paper's video is now out on YouTube. Watch it [here](https://www.youtube.com/watch?v=ZW9_2bNF1zo&ab_channel=ComputerVisionFoundationVideos). 
 - Feb' 21: I will be joining [MILA](https://mila.quebec/en/mila/) as a grad student in Fall 2021.   
   
+For more updates, please visit my [personal webpage](https://digantamisra98.github.io/). 

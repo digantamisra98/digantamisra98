@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p float="left">
+<p float="center">
   <img src="wandb.jpg"  width="100"/>
   &emsp;
   <img src="lsr.png"  width="100"/>

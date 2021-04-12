@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="wandb1.png"  width="270"/>
+  <img src="wandb.jpg"  width="270"/>
   &emsp;
   <img src="lsr.png"  width="80"/>
   &emsp;

@@ -10,11 +10,9 @@
   <img src="pngkey.com-blue-circle-png-352196.png"  width="100"/>
   &emsp;
   <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="230"/>
-  &emsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_University_of_California_1868_UCSC.svg/1200px-The_University_of_California_1868_UCSC.svg.png"  width="115"/>
 </p>
 
-I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape-ai.github.io/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/). I also am a visiting researcher at [Cihang Xie's group](https://cihangxie.github.io/) at UC Santa Cruz where my focus is mostly on robustness and vision transformers. I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
+I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape-ai.github.io/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
 
 ### News:
 
@@ -26,6 +24,5 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 - Dec' 20: My talk at the Weights & Biases Salon is now out on [Youtube](https://www.youtube.com/watch?v=1U-7TWysqIg).
 - Jan' 21: Our WACV paper's video is now out on YouTube. Watch it [here](https://www.youtube.com/watch?v=ZW9_2bNF1zo&ab_channel=ComputerVisionFoundationVideos). 
 - May' 21: I'll be joining [MILA](https://mila.quebec/en/) as a grad student this Fall '21. 
-- June' 21: I am joining [Cihang Xie's group](https://cihangxie.github.io/) at UC Santa Cruz as a visiting researcher.
   
 For more updates, please visit my [personal webpage](https://digantamisra98.github.io/). 

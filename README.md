@@ -12,7 +12,7 @@
   <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="230"/>
   <br>
   <br>
-  <img src="https://vita-group.github.io/logo.png"  width="200"/>
+  <img src="https://vita-group.github.io/logo.png"  width="170"/>
 </p>
 
 I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 

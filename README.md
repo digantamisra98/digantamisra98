@@ -27,6 +27,6 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 - Dec' 20: My talk at the Weights & Biases Salon is now out on [Youtube](https://www.youtube.com/watch?v=1U-7TWysqIg).
 - Jan' 21: Our WACV paper's video is now out on YouTube. Watch it [here](https://www.youtube.com/watch?v=ZW9_2bNF1zo&ab_channel=ComputerVisionFoundationVideos). 
 - May' 21: I'll be joining [MILA](https://mila.quebec/en/) as a grad student this Fall '21. 
-- Jul' 21: I'm joining [VITA, UT Austin](https://vita-group.github.io/) as a visiting researcher. 
+- Jul' 21: I'm joining [VITA, UT Austin](https://vita-group.github.io/) as a visiting research scholar. 
   
 For more updates, please visit my [personal webpage](https://digantamisra98.github.io/). 

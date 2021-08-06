@@ -1,18 +1,17 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p float="center">
-  <img src="wandb.jpg"  width="100"/>
+  <img src="wandb.jpg"  width="80"/>
   &emsp;
-  <img src="lsr.png"  width="100"/>
+  <img src="lsr.png"  width="80"/>
   &emsp;
-  <img src="png_logo.png"  width="100"/>
+  <img src="png_logo.png"  width="80"/>
   &emsp;
-  <img src="pngkey.com-blue-circle-png-352196.png"  width="100"/>
+  <img src="pngkey.com-blue-circle-png-352196.png"  width="80"/>
   &emsp;
-  <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="230"/>
-  <br>
-  <br>
-  <img src="https://vita-group.github.io/logo.png"  width="170"/>
+  <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="150"/>
+  &emsp;
+  <img src="https://vita-group.github.io/logo.png"  width="120"/>
 </p>
 
 I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 

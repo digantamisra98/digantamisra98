@@ -7,10 +7,14 @@
   &emsp;
   <img src="png_logo.png"  width="80"/>
   &emsp;
+  <img src="pngkey.com-blue-circle-png-352196.png"  width="80"/>
+  &emsp;
+  <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="180"/>
+  &emsp;
   <img src="https://vita-group.github.io/logo.png"  width="120"/>
 </p>
 
-I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I am also a Visiting Research Scholar at [VITA, UT Austin](https://vita-group.github.io/index.html). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
+I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/) and a Visiting Research Scholar at [VITA, UT Austin](https://vita-group.github.io/index.html). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
@@ -21,6 +25,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 					<li>August 2021: Our <a href="https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/tense" target="_blank">fine grained tense modification task</a> was accepted to <a href="https://github.com/google/BIG-bench" target="_blank">Google's Big Bench</a>.</li>
 					<li>July 2021: I am also joining the <a href="https://vita-group.github.io/index.html" target="_blank">VITA, UT-Austin</a> as a Visiting Research Scholar to work on sparsity under the guidance of <a href="https://spark.adobe.com/page/CAdrFMJ9QeI2y/" target="_blank">Assistant Professor Zhangyang Wang</a>.</li>
 					<li>May 2021: We are organizing the Spring Edition of the <a href="https://wandb.ai/site/reproducibility-challenge" target="_blank">Weights & Biases ML Reproducibility Challenge</a>. Visit our page to learn more.</li>
+					<li>May 2021: I will be joining <a href="https://mila.quebec/en/" target="_blank">MILA</a> as a graduate student this fall '21.</li>
 					<li>January 2021: Our WACV paper's video is now out on YouTube. Watch it <a href="https://www.youtube.com/watch?v=ZW9_2bNF1zo&ab_channel=ComputerVisionFoundationVideos" target="_blank">here</a>.</li>
 					<li>January 2021: I will be speaking at the <a href="https://www.youtube.com/playlist?list=PLD80i8An1OEH3ejAj8R8dy74JeSzY8kGt" target="_blank">W&B Deep Learning Salon</a> on <b>"From Smooth Activations to Robustness to Catastrophic Forgetting"</b>. &emsp; I will be joined by <a href="https://maithraraghu.com/" target="_blank">Maithra Raghu</a> from Google Brain. Watch it <a href="https://www.youtube.com/watch?v=1U-7TWysqIg" target="_blank">here</a>.</li>
 					<li>December 2020: I'm starting full time as a Machine Learning Engineer at <a href="https://wandb.ai/site" target="_blank">Weights & Biases</a>.</li>

@@ -28,7 +28,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <li>May 2021: We are organizing the Spring Edition of the <a href="https://wandb.ai/site/reproducibility-challenge" target="_blank">Weights & Biases ML Reproducibility Challenge</a>. Visit our page to learn more.</li>
 <li>May 2021: I will be joining <a href="https://mila.quebec/en/" target="_blank">MILA</a> as a graduate student this fall '21.</li>
 <li>January 2021: Our WACV paper's video is now out on YouTube. Watch it <a href="https://www.youtube.com/watch?v=ZW9_2bNF1zo&ab_channel=ComputerVisionFoundationVideos" target="_blank">here</a>.</li>
-<li>January 2021: I will be speaking at the <a href="https://www.youtube.com/playlist?list=PLD80i8An1OEH3ejAj8R8dy74JeSzY8kGt" target="_blank">W&B Deep Learning Salon</a> on <b>"From Smooth Activations to Robustness to Catastrophic Forgetting"</b>. &emsp; I will be joined by <a href="https://maithraraghu.com/" target="_blank">Maithra Raghu</a> from Google Brain. Watch it <a href="https://www.youtube.com/watch?v=1U-7TWysqIg" target="_blank">here</a>.</li>
+<li>January 2021: I will be speaking at the <a href="https://www.youtube.com/playlist?list=PLD80i8An1OEH3ejAj8R8dy74JeSzY8kGt" target="_blank">W&B Deep Learning Salon</a> on <b>"From Smooth Activations to Robustness to Catastrophic Forgetting"</b>. I will be joined by <a href="https://maithraraghu.com/" target="_blank">Maithra Raghu</a> from Google Brain. Watch it <a href="https://www.youtube.com/watch?v=1U-7TWysqIg" target="_blank">here</a>.</li>
 <li>December 2020: I'm starting full time as a Machine Learning Engineer at <a href="https://wandb.ai/site" target="_blank">Weights & Biases</a>.</li>
 <li>October 2020: Our paper <a href="https://openaccess.thecvf.com/content/WACV2021/html/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.html" target="_blank">Rotate to Attend: Convolutional Triplet Attention Module</a> is accepted to <a href="http://wacv2021.thecvf.com/home" target="_blank">WACV 2021</a>.</li>
 <li>September 2020: Gave a talk on my paper on <i>Mish</i> at the <b>Robert Bosch Bangalore Research Office</b>.</li>
@@ -43,7 +43,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <li>November 2019: Presented a talk on my paper on <i>Mish</i> at the <b>University of Athens</b>.</li>
 </ul>
 </div>
-</p>d
+</p>
       
 </details>
   

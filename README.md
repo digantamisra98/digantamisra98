@@ -22,6 +22,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+<li>September 2021: I will be serving as a reviewer at <a href="http://wacv2022.thecvf.com/home" target="_blank">WACV 2022</a>.</li>
 <li>August 2021: Our proposals[<a href="https://digantamisra98.github.io/#db">1</a>,<a href="https://digantamisra98.github.io/#safe">2</a>] were accepted to CoSubmitting Summer(CSS) program at ICLR 2022.</li>
 <li>August 2021: Our <a href="https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/tense" target="_blank">fine grained tense modification task</a> was accepted to <a href="https://github.com/google/BIG-bench" target="_blank">Google's Big Bench</a>.</li>
 <li>July 2021: I am also joining the <a href="https://vita-group.github.io/index.html" target="_blank">VITA, UT-Austin</a> as a Visiting Research Scholar to work on sparsity under the guidance of <a href="https://spark.adobe.com/page/CAdrFMJ9QeI2y/" target="_blank">Assistant Professor Zhangyang Wang</a>.</li>

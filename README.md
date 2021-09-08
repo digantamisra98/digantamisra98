@@ -14,7 +14,7 @@
   <img src="https://vita-group.github.io/logo.png"  width="120"/>
 </p>
 
-I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also an incoming MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/) and a Visiting Research Scholar at [VITA, UT Austin](https://vita-group.github.io/index.html). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
+I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research group [Landskape](https://landskape.ai/) and Machine Learning Engineer at [Weights & Biases](https://www.wandb.com/). I'm also a MSc in CS (Machine Learning specialization) at [MILA, Montreal](https://mila.quebec/en/) affiliated with [UdeM](https://www.umontreal.ca/) and a Visiting Research Scholar at [VITA, UT Austin](https://vita-group.github.io/index.html). I mostly focus on Abstract Algebra, Computer Vision, Mean Field Theory, Continual Learning, Convex Optimization, Deep Learning Theory and Non-Linear Dynamics. 
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>

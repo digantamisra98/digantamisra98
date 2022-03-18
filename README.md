@@ -23,7 +23,6 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
 						<li>March 2022: Awarded the DIRO x Quebec Ministry of Higher Education international students scholarship worth C$4000.</li>
-
 	<li>March 2022: I am starting as a researcher at Morgan Stanley.</li>
 <li>February 2022: I will be serving as a Program Committee member for <a href="https://lifelong-ml.cc/" target="_blank">Conference on Lifelong Learning Agents(CoLLA) 2022</a>.</li>
 <li>January 2022: I am selected to be a part of the MILA Winter 2022 Entrepreneurs Cohort.</li>

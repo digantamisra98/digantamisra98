@@ -22,6 +22,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+	<li>April 2022: Awarded the <a href="https://www.unique.quebec/2022-unique-excellence-scholarships">UNIQUE AI Excellence Scholarship</a> worth C$10,000.</li>
 	<li>April 2022: The preprint of our paper <a href="https://arxiv.org/abs/2204.01640" target="_blank"><textbf>APP: Anytime Progressive Pruning</textbf></a> is out now. 
 	<li>April 2022: I am starting as a researcher at Morgan Stanley.</li>
 						<li>March 2022: Awarded the DIRO x Quebec Ministry of Higher Education international students scholarship worth C$4000.</li>

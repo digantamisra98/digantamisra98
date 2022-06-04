@@ -5,11 +5,11 @@
   &emsp;
   <img src="png_logo.png"  width="100"/>
   &emsp;
+  <img src="https://cdn2.downdetector.com/static/uploads/logo/Morgan_stanley_logo.jpg"  width="102"/>
+  &emsp;
   <img src="1280px-Universite_de_Montreal_logo.svg.png"  width="180"/>
   &emsp;
   <img src="https://vita-group.github.io/logo.png"  width="120"/>
-  &emsp;
-  <img src="https://cdn2.downdetector.com/static/uploads/logo/Morgan_stanley_logo.jpg"  width="110"/>
   &emsp;
   <img src="lsr.png"  width="110"/>
 </p>

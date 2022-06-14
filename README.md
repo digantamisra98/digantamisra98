@@ -22,6 +22,8 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+						<li>June 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://dynn-icml2022.github.io/" target="_blank">Dynamic Neural Network (DyNN) workshop</a> at <a href="https://icml.cc/Conferences/2022/" target="_blank">ICML, 2022</a>.</li>
+
 <li>May 2022: Awarded the MILA Entrepreneurs Grant worth CAD$5,000.</li>
 					<li>May 2022: Awarded the <a href = "https://www.ai-week.ca/?utm_source=google-ads&utm_medium=cpc&utm_campaign=ai-week&utm_term=amii%20ai%20week&utm_campaign=AI-Week+%7C+S+%7C+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=16953749208&hsa_grp=135907011819&hsa_ad=593686735388&hsa_src=g&hsa_tgt=kwd-1650174358069&hsa_kw=amii%20ai%20week&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwve2TBhByEiwAaktM1BjAxiVdVUehV3fuuvfAgtH1vgzVT_jb-fmmTT6sbtfQSoxJ1RTJihoCLykQAvD_BwE" target = "_blank">AI Week 2022</a> Student Travel Bursary worth CAD$1,500.</li>
 	<li>April 2022: Awarded the <a href="https://www.unique.quebec/2022-unique-excellence-scholarships">UNIQUE AI Excellence Scholarship</a> worth C$10,000.</li>

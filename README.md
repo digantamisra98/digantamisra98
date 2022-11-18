@@ -20,8 +20,8 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-	<li>November 2022: Our work on <a href="[app2022](https://arxiv.org/abs/2204.01640)" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Learning (CLL)</a> workshop at <a href="https://www.acml-conf.org/2022/" target="_blank">ACML, 2022</a>.</li>
-					<li>July 2022: Our work on <a href="[app2022](https://arxiv.org/abs/2204.01640)" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Network (SNN)</a> workshop, 2022.</li>
+	<li>November 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Learning (CLL)</a> workshop at <a href="https://www.acml-conf.org/2022/" target="_blank">ACML, 2022</a>.</li>
+					<li>July 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Network (SNN)</a> workshop, 2022.</li>
 
 <li>June 2022: Our work on <a href="https://digantamisra98.github.io/#scole2022" target="_blank">Scaling the Number of Tasks in Continual Learning</a> got accepted to the <a href="https://lifelong-ml.cc/" target="_blank">CoLLAs 2022 workshop</a>.</li>
 						<li>June 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://dynn-icml2022.github.io/" target="_blank">Dynamic Neural Network (DyNN) workshop</a> at <a href="https://icml.cc/Conferences/2022/" target="_blank">ICML, 2022</a>.</li>

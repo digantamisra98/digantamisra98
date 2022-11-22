@@ -20,6 +20,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+	<li>November 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://slowdnn-workshop.github.io/" target="_blank">SlowDNN</a> workshop, 2023.</li>
 	<li>November 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://continual-lifelong-learners.github.io/" target="_blank">Continual Lifelong Learning (CLL)</a> workshop at <a href="https://www.acml-conf.org/2022/" target="_blank">ACML, 2022</a>.</li>
 					<li>July 2022: Our work on <a href="https://arxiv.org/abs/2204.01640" target="_blank">APP: Anytime Progressive Pruning</a> is accepted to the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Network (SNN)</a> workshop, 2022.</li>
 

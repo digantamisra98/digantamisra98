@@ -22,9 +22,12 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+	<li>October 2023: Our work on "Shapley Interactions for Complex Feature Attribution" is accepted to <a href="https://attrib-workshop.cc/" target="_blank">NeurIPS ATTRIB workshop</a>, 2023.</li>
 	<li>August 2023: Our new preprint on <a href="https://arxiv.org/abs/2308.14969" target="_blank">Reprogramming under constraints</a> is now out on ArXiv.</li>
+	<li>August 2023: Gave an invited talk at <a href="https://www.tue.nl/en/research/researchers/mykola-pechenizkiy" target="_blank">TU Eindoven</a> on <a href="https://drive.google.com/file/d/1Ncr2e5dMEbAp2irMOs6m2-PLnOAhJwdl/view?usp=share_link" target="_blank">Learning under constraints</a>.</li>
 	<li>June 2023: I will be joining <a href="http://www.humansensing.cs.cmu.edu/">HSL</a>, CMU in Fall 2023 as a Visiting Researcher.</li>
 	<li>May 2023: Our work on <a href="https://digantamisra98.github.io/#scole2022">Challenging Common Assumptions about Catastrophic Forgetting</a> got accepted to <a href="https://lifelong-ml.cc/">CoLLAs, 2023</a>.</li>
+	<li>May 2023: Gave an invited talk at <a href="https://vita-group.github.io/index.html" target="_blank">VITA, UT-Austin</a> on <a href="https://drive.google.com/file/d/1jvLsCzgiBZodq1a2s9nYZJuGcy23Hd_R/view?usp=share_link" target="_blank">Multi-Domain Expert Layers</a>.</li>
 					<li>April 2023: Our work on <a href="https://openreview.net/forum?id=uyTL5Bvosj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</a> got accepted to <a href="https://jmlr.org/tmlr/">TMLR</a>.</li>
 	<li>March 2023: Our work on <a href="code2023" target="_blank">Pruning CodeBERT for Improved Code-to-Text Efficiency</a> is accepted to the <a href="https://www.sparseneural.net/" target="_blank">Sparsity in Neural Network (SNN)</a> workshop @ ICLR, 2023.</li>
 					<li>November 2022: Gave a talk titled <a href="https://youtu.be/WdzWY9xNLJU" target="_blank">Modality agnostic adaptation in deep learning</a> at the IBM Generalisation talk series.</li>

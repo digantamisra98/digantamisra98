@@ -22,6 +22,7 @@ I'm [Diganta Misra](https://digantamisra98.github.io/), founder of a research gr
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+	<li>October 2023: Our work on "Mitigating Mode Collapse in Sparse Mixture of Experts" is accepted to <a href="https://newinml.github.io/" target="_blank">New in ML workshop, NeurIPS</a>, 2023.</li>
 	<li>October 2023: Our work on "Shapley Interactions for Complex Feature Attribution" is accepted to <a href="https://attrib-workshop.cc/" target="_blank">NeurIPS ATTRIB workshop</a>, 2023.</li>
 	<li>August 2023: Our new preprint on <a href="https://arxiv.org/abs/2308.14969" target="_blank">Reprogramming under constraints</a> is now out on ArXiv.</li>
 	<li>August 2023: Gave an invited talk at <a href="https://www.tue.nl/en/research/researchers/mykola-pechenizkiy" target="_blank">TU Eindoven</a> on <a href="https://drive.google.com/file/d/1Ncr2e5dMEbAp2irMOs6m2-PLnOAhJwdl/view?usp=share_link" target="_blank">Learning under constraints</a>.</li>
